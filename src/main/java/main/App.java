@@ -21,7 +21,7 @@ class App {
                     String nimi = scanner.next();
                     System.out.println("Anna siilin ikä:");
                     int ika = scanner.nextInt();
-                    siili = new Siili(nimi, ika);
+                    siili = new Hedgehog(nimi, ika);
             } else if (valinta == 3) {
                     System.out.println("Kuinka monta kierrosta?");
                     int kierrokset = scanner.nextInt();
