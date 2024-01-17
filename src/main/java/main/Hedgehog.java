@@ -1,13 +1,13 @@
-class Siili {
+class Hedgehog {
     private String nimi;
     private int ika;
 
-    public Siili() {
+    public Hedgehog() {
         this.nimi = "Pikseli";
         this.ika = 5;
     }
 
-    public Siili(String nimi, int ika) {
+    public Hedgehog(String nimi, int ika) {
         this.nimi = nimi;
         this.ika = ika;
     }

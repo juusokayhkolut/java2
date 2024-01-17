@@ -3,7 +3,7 @@ import java.util.Scanner;
 class App {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        Siili siili = new Siili();
+        Hedgehog siili = new Hedgehog();
 
         int valinta;
         
