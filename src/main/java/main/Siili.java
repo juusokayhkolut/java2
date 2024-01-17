@@ -1,4 +1,4 @@
-public class Siili {
+class Siili {
     private String nimi;
     private int ika;
 
